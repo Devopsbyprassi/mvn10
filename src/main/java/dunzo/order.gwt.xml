@@ -1,0 +1,11 @@
+<module rename-to="order">
+    <inherits name="com.google.gwt.user.User"/>
+
+    <inherits name="com.google.gwt.query.Query"/>
+
+    <inherits name="com.vaadin.polymer.Elements"/>
+
+    <entry-point class="dunzo.client.Shell"/>
+
+    <collapse-all-properties value="true" />
+</module>
